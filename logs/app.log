@@ -1,0 +1,94 @@
+[INFO ] 2022-12-14 11:21:47.423 [main] DataProviders - enterd url
+[INFO ] 2022-12-14 11:22:54.464 [main] DataProviders - enterd url
+[INFO ] 2022-12-14 11:24:42.589 [main] DataProviders - enterd url
+[INFO ] 2022-12-14 11:24:59.527 [main] DataProviders - Entered first name
+[INFO ] 2022-12-14 11:24:59.812 [main] DataProviders - Entered last name
+[INFO ] 2022-12-14 11:25:00.403 [main] DataProviders - Entered phone number
+[INFO ] 2022-12-14 11:25:22.331 [main] DataProviders - enterd url
+[INFO ] 2022-12-14 11:25:38.236 [main] DataProviders - Entered first name
+[INFO ] 2022-12-14 11:25:38.446 [main] DataProviders - Entered last name
+[INFO ] 2022-12-14 11:25:38.655 [main] DataProviders - Entered phone number
+[INFO ] 2022-12-14 12:05:31.658 [main] Base_Page - launching chrome browser
+[INFO ] 2022-12-14 12:05:38.144 [main] Base_Page - browser got maximized
+[INFO ] 2022-12-14 12:05:41.316 [main] Base_Page - KareClouds web application opened
+[INFO ] 2022-12-14 12:05:41.556 [main] Base_Page - entered user credential
+[INFO ] 2022-12-14 12:05:42.220 [main] Base_Page - launching chrome browser
+[INFO ] 2022-12-14 12:05:45.366 [main] Base_Page - browser got maximized
+[INFO ] 2022-12-14 12:05:51.099 [main] Base_Page - KareClouds web application opened
+[INFO ] 2022-12-14 12:05:53.026 [main] Base_Page - driver has closed
+[INFO ] 2022-12-14 12:14:46.508 [main] Base_Page - launching chrome browser
+[INFO ] 2022-12-14 12:14:52.937 [main] Base_Page - browser got maximized
+[INFO ] 2022-12-14 12:14:58.401 [main] Base_Page - KareClouds web application opened
+[INFO ] 2022-12-14 12:14:58.582 [main] Base_Page - entered user credential
+[INFO ] 2022-12-14 12:15:00.298 [main] Base_Page - driver has closed
+[INFO ] 2022-12-14 12:24:58.095 [main] Base_Page - launching chrome browser
+[INFO ] 2022-12-14 12:25:05.479 [main] Base_Page - browser got maximized
+[INFO ] 2022-12-14 12:25:10.120 [main] Base_Page - KareClouds web application opened
+[INFO ] 2022-12-14 12:25:11.338 [main] Base_Page - driver has closed
+[INFO ] 2022-12-14 12:26:44.770 [main] Base_Page - launching chrome browser
+[INFO ] 2022-12-14 12:26:52.559 [main] Base_Page - browser got maximized
+[INFO ] 2022-12-14 12:26:55.534 [main] Base_Page - KareClouds web application opened
+[INFO ] 2022-12-14 12:26:56.191 [main] Base_Page - user name entered
+[INFO ] 2022-12-14 12:26:56.500 [main] Base_Page - password entered
+[INFO ] 2022-12-14 12:27:04.544 [main] Base_Page - click on sign in button
+[INFO ] 2022-12-14 12:27:07.563 [main] Base_Page - home page object returned
+[INFO ] 2022-12-14 12:27:07.564 [main] Base_Page - entered user credential
+[INFO ] 2022-12-14 12:27:08.575 [main] Base_Page - checking the logo is displayed or not
+[INFO ] 2022-12-14 12:27:08.784 [main] Base_Page - result=true
+[INFO ] 2022-12-14 12:27:09.254 [main] Base_Page - driver has closed
+[INFO ] 2022-12-14 12:27:44.119 [main] Base_Page - launching chrome browser
+[INFO ] 2022-12-14 12:27:49.349 [main] Base_Page - browser got maximized
+[INFO ] 2022-12-14 12:27:52.860 [main] Base_Page - KareClouds web application opened
+[INFO ] 2022-12-14 12:27:53.552 [main] Base_Page - user name entered
+[INFO ] 2022-12-14 12:27:53.848 [main] Base_Page - password entered
+[INFO ] 2022-12-14 12:28:03.217 [main] Base_Page - click on sign in button
+[INFO ] 2022-12-14 12:28:06.232 [main] Base_Page - home page object returned
+[INFO ] 2022-12-14 12:28:06.233 [main] Base_Page - entered user credential
+[INFO ] 2022-12-14 12:28:07.241 [main] Base_Page - checking the logo is displayed or not
+[INFO ] 2022-12-14 12:28:07.362 [main] Base_Page - result=true
+[INFO ] 2022-12-14 12:28:07.436 [main] Base_Page - launching chrome browser
+[INFO ] 2022-12-14 12:28:10.709 [main] Base_Page - browser got maximized
+[INFO ] 2022-12-14 16:07:12.665 [main] Listenerns - *******************onStart Listener method called************
+[INFO ] 2022-12-14 16:07:21.833 [main] Listenerns - *******************onTestStart Listener method called************
+[INFO ] 2022-12-14 16:07:21.896 [main] DataProviders - enterd url
+[INFO ] 2022-12-14 16:07:41.191 [main] DataProviders - Entered first name
+[INFO ] 2022-12-14 16:07:41.475 [main] DataProviders - Entered last name
+[INFO ] 2022-12-14 16:07:41.707 [main] DataProviders - Entered phone number
+[INFO ] 2022-12-14 16:07:56.111 [main] Listenerns - *******************onTestSuccess Listener method called************
+[INFO ] 2022-12-14 16:08:01.811 [main] Listenerns - *******************onTestStart Listener method called************
+[INFO ] 2022-12-14 16:08:01.816 [main] DataProviders - enterd url
+[INFO ] 2022-12-14 16:08:19.549 [main] DataProviders - Entered first name
+[INFO ] 2022-12-14 16:08:19.789 [main] DataProviders - Entered last name
+[INFO ] 2022-12-14 16:08:19.988 [main] DataProviders - Entered phone number
+[INFO ] 2022-12-14 16:08:33.973 [main] Listenerns - *******************onTestSuccess Listener method called************
+[INFO ] 2022-12-14 16:08:34.725 [main] Listenerns - *******************onFinish Listener method called************
+[INFO ] 2022-12-14 16:10:26.772 [main] Listenerns - *******************onStart Listener method called************
+[INFO ] 2022-12-14 16:10:33.547 [main] Listenerns - *******************onTestStart Listener method called************
+[INFO ] 2022-12-14 16:10:33.585 [main] DataProviders - enterd url
+[INFO ] 2022-12-14 16:10:55.935 [main] DataProviders - Entered first name
+[INFO ] 2022-12-14 16:10:56.306 [main] Listenerns - *******************onTestFailure Listener method called************
+[INFO ] 2022-12-14 16:11:03.815 [main] Listenerns - *******************onTestStart Listener method called************
+[INFO ] 2022-12-14 16:11:03.826 [main] DataProviders - enterd url
+[INFO ] 2022-12-14 16:11:33.738 [main] DataProviders - Entered first name
+[INFO ] 2022-12-14 16:11:33.793 [main] Listenerns - *******************onTestFailure Listener method called************
+[INFO ] 2022-12-14 16:11:36.432 [main] Listenerns - *******************onFinish Listener method called************
+[INFO ] 2022-12-14 16:15:16.941 [main] Listenerns - *******************onStart Listener method called************
+[INFO ] 2022-12-14 16:15:25.699 [main] Listenerns - *******************onTestStart Listener method called************
+[INFO ] 2022-12-14 16:15:25.778 [main] Listenerns - *******************onTestSkipped Listener method called************
+[INFO ] 2022-12-14 16:15:25.849 [main] Listenerns - *******************onTestStart Listener method called************
+[INFO ] 2022-12-14 16:15:25.927 [main] Listenerns - *******************onTestSkipped Listener method called************
+[INFO ] 2022-12-14 16:15:26.117 [main] Listenerns - *******************onFinish Listener method called************
+[INFO ] 2022-12-14 16:15:47.739 [main] Listenerns - *******************onStart Listener method called************
+[INFO ] 2022-12-14 16:15:54.560 [main] Listenerns - *******************onTestStart Listener method called************
+[INFO ] 2022-12-14 16:15:54.629 [main] DataProviders - enterd url
+[INFO ] 2022-12-14 16:16:15.602 [main] DataProviders - Entered first name
+[INFO ] 2022-12-14 16:16:15.863 [main] DataProviders - Entered last name
+[INFO ] 2022-12-14 16:16:16.094 [main] DataProviders - Entered phone number
+[INFO ] 2022-12-14 16:16:16.438 [main] Listenerns - *******************onTestFailure Listener method called************
+[INFO ] 2022-12-14 16:16:20.530 [main] Listenerns - *******************onTestStart Listener method called************
+[INFO ] 2022-12-14 16:16:20.537 [main] DataProviders - enterd url
+[INFO ] 2022-12-14 16:16:49.431 [main] DataProviders - Entered first name
+[INFO ] 2022-12-14 16:16:49.689 [main] DataProviders - Entered last name
+[INFO ] 2022-12-14 16:16:49.884 [main] DataProviders - Entered phone number
+[INFO ] 2022-12-14 16:16:50.118 [main] Listenerns - *******************onTestFailure Listener method called************
+[INFO ] 2022-12-14 16:16:51.154 [main] Listenerns - *******************onFinish Listener method called************
